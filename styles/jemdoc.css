@@ -34,7 +34,7 @@ body {
 
 .social-links {
 	float: right;
-	/* margin-top: 5px; */
+	margin-top: -5px;
 }
 
 #layout-menu {
