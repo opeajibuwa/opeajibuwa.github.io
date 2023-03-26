@@ -34,14 +34,8 @@ body {
 
 .social-links {
 	float: right;
-	margin-top: -2em;
+	margin-top: -4em;
 }
-
-/* .social-links {
-	display: inline-block;
-	margin-top: 0.5em;
-	margin-left: 1em;
-} */
 
 #layout-menu {
 	background: #f6f6f6;
