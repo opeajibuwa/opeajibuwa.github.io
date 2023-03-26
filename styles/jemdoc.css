@@ -32,10 +32,10 @@ body {
   max-width: 960px;
 }
 
-.social-links {
+/* .social-links {
 	float: right;
-	/* margin-top: 30px; */
-}
+	margin-top: 30px;
+} */
 
 #layout-menu {
 	background: #f6f6f6;
