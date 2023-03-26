@@ -32,16 +32,16 @@ body {
   max-width: 960px;
 }
 
-/* .social-links {
-	float: right;
-	margin-top: -5px;
-} */
-
 .social-links {
+	float: right;
+	margin-top: -2em;
+}
+
+/* .social-links {
 	display: inline-block;
 	margin-top: 0.5em;
 	margin-left: 1em;
-}
+} */
 
 #layout-menu {
 	background: #f6f6f6;
