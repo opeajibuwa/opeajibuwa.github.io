@@ -55,7 +55,7 @@ body {
     vertical-align: top;
 }
 
-/* #layout-content {
+#layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
@@ -63,7 +63,7 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
-} */
+}
 
 #layout-menu a {
 	line-height: 1.5em;
